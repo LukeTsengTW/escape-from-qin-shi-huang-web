@@ -1,5 +1,7 @@
 # escape-from-qin-shi-huang-web
 
+You can play this game from the link : https://luketsengtw.github.io/escape-from-qin-shi-huang-web/
+
 en:
 
 ## NOTICE!!!!!
